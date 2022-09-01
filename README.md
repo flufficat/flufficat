@@ -11,6 +11,7 @@
 #### 💬 Ask me about
   - Using linux
   - Photography
-#### 📫 How to reach me: 
+#### 📫 How to reach me:
+  - [flufficat.dev.synchronise@simplelogin.fr](mailto:flufficat.dev.synchronise@simplelogin.fr)
 #### 😄 Pronouns: 
   - They/Them/flufficat
