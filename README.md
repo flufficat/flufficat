@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/-HTML-383842?style=for-the-badge&logo=html5)](https://flufficat.github.io)
 
-[![](https://img.shields.io/badge/-CSS-383842?style=for-the-badge&logo=css)](https://flufficat.github.io)
+[![](https://img.shields.io/badge/-CSS-383842?style=for-the-badge&logo=css3)](https://flufficat.github.io)
 
 #### 🌱 I’m currently learning
 
@@ -16,13 +16,13 @@
 
 [![](https://img.shields.io/badge/-HTML-383842?style=for-the-badge&logo=html5)](https://flufficat.github.io)
 
-[![](https://img.shields.io/badge/-Python-383842?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/-Python-383842?style=for-the-badge&logo=python)](https://github.com/flufficat/)
   
-[![](https://img.shields.io/badge/-Kotlin-383842?style=for-the-badge&logo=kotlin)]()
+[![](https://img.shields.io/badge/-Kotlin-383842?style=for-the-badge&logo=kotlin)](https://github.com/flufficat/)
   
-[![](https://img.shields.io/badge/-Android_App_Development-383842?style=for-the-badge&logo=android)]()
+[![](https://img.shields.io/badge/-Android_App_Development-383842?style=for-the-badge&logo=android)](https://github.com/flufficat/)
 
-[![](https://img.shields.io/badge/-Linux_System_Administration-383842?style=for-the-badge&logo=linux)]() 
+[![](https://img.shields.io/badge/-Linux_System_Administration-383842?style=for-the-badge&logo=linux)](https://github.com/flufficat/) 
     
 #### 🤔 I’m looking for help with
   - Android app development
@@ -33,6 +33,3 @@
   - [flufficat.dev.synchronise@simplelogin.fr](mailto:flufficat.dev.synchronise@simplelogin.fr)
 #### 😄 Pronouns: 
   - They/Them/flufficat
-
-[![]()]()
-383842
