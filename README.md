@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on 
-  - [yt-boat](https://github.com/flufficat/yt-boat)
+#### 🔭 I’m currently working on:
+## [![yt-boat](https://raw.githubusercontent.com/flufficat/yt-boat/main/logo50x50.ico)](https://github.com/flufficat/yt-boat) yt-boat
 
 #### :hourglass_flowing_sand: I regularly use:
 
