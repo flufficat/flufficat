@@ -15,13 +15,9 @@
 [![](https://img.shields.io/badge/-Git-383842?style=for-the-badge&logo=git)](https://github.com/flufficat/)
 
 [![](https://img.shields.io/badge/-HTML-383842?style=for-the-badge&logo=html5)](https://flufficat.github.io)
-
-[![](https://img.shields.io/badge/-Python-383842?style=for-the-badge&logo=python)](https://github.com/flufficat/)
   
-[![](https://img.shields.io/badge/-Kotlin-383842?style=for-the-badge&logo=kotlin)](https://github.com/flufficat/)
+[![](https://img.shields.io/badge/-Rust-383842?style=for-the-badge&logo=rust)](https://github.com/flufficat/)
   
-[![](https://img.shields.io/badge/-Android_App_Development-383842?style=for-the-badge&logo=android)](https://github.com/flufficat/)
-
 [![](https://img.shields.io/badge/-Linux_System_Administration-383842?style=for-the-badge&logo=linux)](https://github.com/flufficat/) 
     
 #### 🤔 I’m looking for help with
