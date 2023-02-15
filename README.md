@@ -7,11 +7,9 @@
 
 [![](https://img.shields.io/badge/-CSS-383842?style=for-the-badge&logo=css3)](https://flufficat.github.io)
 
-#### 🌱 I’m currently learning
-
 [![](https://img.shields.io/badge/-Git-383842?style=for-the-badge&logo=git)](https://github.com/flufficat/)
 
-[![](https://img.shields.io/badge/-HTML-383842?style=for-the-badge&logo=html5)](https://flufficat.github.io)
+#### 🌱 I’m currently learning
   
 [![](https://img.shields.io/badge/-Linux_System_Administration-383842?style=for-the-badge&logo=linux)](https://github.com/flufficat/) 
     
